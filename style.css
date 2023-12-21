@@ -1,0 +1,49 @@
+.container{
+    background-color: rgb(19, 19, 93);
+    height: 138vh;
+    float: left;
+    width: 30%;
+}
+.main{
+    padding: 10%;
+}
+.profile-img{
+    height: 300px;
+    border-radius: 50%;
+    margin-left:35px ; 
+ 
+}
+.profile{
+    color: white;    
+    font-size: 1.2rem;
+}
+.name{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+.container2{
+    background-color: rgb(173, 173, 236);
+    height: 138vh;
+    margin-left: 10%
+}
+.main2{
+    padding-left: 30px;
+    padding-top: 35px;
+    margin-left: 22%;
+    margin-right: 5%;
+}
+.heading{
+    text-decoration-line: underline solid black;
+    font-size: 2.2rem;
+}
+.text{
+    font-size: 1.2rem;
+}
+.bold{
+    font-weight: bold;
+}
+.bi{
+    float: left;
+    margin-right: 2%;
+}
